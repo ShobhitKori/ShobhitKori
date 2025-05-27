@@ -21,6 +21,7 @@
 - 🌱 Always exploring **new DevOps tools**, automation, and cloud-native technologies
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js, or Docker**
 - ⚡ Fun fact: I love clean UIs, terminal hacks, and late-night coding sessions.
+- 🌐 Check out my Portfolio - https://portfolio-one-flax-72.vercel.app/
 
 ---
 
