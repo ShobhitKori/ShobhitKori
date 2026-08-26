@@ -56,9 +56,9 @@ currently:
 
 ```bash
 # fill in the links that apply to you
-$ echo $LINKEDIN   # -> https://linkedin.com/in/<your-handle>
-$ echo $EMAIL      # -> your@email.com
-$ echo $PORTFOLIO  # -> https://your-site.dev
+$ echo $LINKEDIN   # -> www.linkedin.com/in/shobhit-kori-655489253
+$ echo $EMAIL      # -> shobhitkori9@gmail.com
+$ echo $PORTFOLIO  # -> https://shobhitkori.vercel.app/
 ```
 
 <div align="center">
