@@ -70,7 +70,7 @@ $ echo $LINKEDIN   # -> <div align="center">
 ├──────────────────────────────────────────────┤
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=560&lines=%24+whoami;Shobhit+Kori+%E2%80%94+Full-Stack+%2B+DevOps+Developer;%24+cat+role.txt;Building+web+platforms+%26+infra+tooling+%40+Vantageo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=560&lines=%24+whoami;Shobhit+Kori+%E2%80%94+Full-Stack+%2B+DevOps+Developer;%24+cat+role.txt;%24+Building+web+platforms+%26+infra+tooling+%40+Vantageo%24+" alt="Typing SVG" />
 
 ```
 └──────────────────────────────────────────────┘
