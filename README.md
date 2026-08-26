@@ -1,61 +1,78 @@
-<h1 align="center">I'm Shobhit Kori</h1>
-<h3 align="center">Full Stack Developer | SaaS Enthusiast | Tech Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shobhit-kori-655489253/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/shobhitcodes" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:shobhitkori9@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+```
+┌──────────────────────────────────────────────┐
+│  shobhit@dev-machine: ~                       │
+├──────────────────────────────────────────────┤
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=560&lines=%24+whoami;Shobhit+Kori+%E2%80%94+Full-Stack+%2B+DevOps+Developer;%24+cat+role.txt;Building+web+platforms+%26+infra+tooling+%40+Vantageo" alt="Typing SVG" />
 
-## 🚀 About Me
+```
+└──────────────────────────────────────────────┘
+```
 
-- 🔭 I’m currently building modern **SaaS applications**
-- 🌱 Always exploring **new DevOps tools**, automation, and cloud-native technologies
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, or Docker**
-- ⚡ Fun fact: I love clean UIs, terminal hacks, and late-night coding sessions.
-- 🌐 Check out my Portfolio - https://portfolio-one-flax-72.vercel.app/
+</div>
 
----
+<br>
 
-## 🛠️ Languages & Tools
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+### `$ cat about.md`
 
----
+```yaml
+name: Shobhit Kori
+role: Developer @ Vantageo
+focus:
+  - Web platform engineering (Next.js, Strapi, Express)
+  - DevOps & CI/CD, VPS management
+  - Infrastructure tooling & internal systems
+currently:
+  - Mentoring interns on an AI / RAG service-data POC
+  - Building internal tools (Orbit Portal, server configurator)
+```
 
-## 📊 GitHub Stats
+### `$ ls ./stack`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShobhitKori&show_icons=true&theme=tokyonight" alt="shobhit stats" />
-</p>
+<div align="left">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitKori&layout=compact&theme=tokyonight" alt="shobhit languages" />
-</p>
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=39FF14)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=39FF14)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=39FF14)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=39FF14)
+![Strapi](https://img.shields.io/badge/-Strapi-000000?style=flat-square&logo=strapi&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=39FF14)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat-square&logo=nginx&logoColor=39FF14)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=39FF14)
 
----
+</div>
 
-## 🔥 Streak Stats
+### `$ ./run-stats.sh`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShobhitKori&theme=tokyonight" alt="shobhit streak" />
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShobhitKori&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitKori&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhitkori&show_icons=true&locale=en&layout=compact" alt="shobhitkori" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShobhitKori&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
----
+</div>
 
-⭐️ Inspired by passionate devs & open source  
-📫 Let’s connect and build something great together!
+### `$ cat contact.txt`
 
+```bash
+# fill in the links that apply to you
+$ echo $LINKEDIN   # -> https://linkedin.com/in/<your-handle>
+$ echo $EMAIL      # -> your@email.com
+$ echo $PORTFOLIO  # -> https://your-site.dev
+```
+
+<div align="center">
+
+```
+> process exited with code 0
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShobhitKori&color=39ff14&style=flat-square&label=terminal+visits)
+
+</div>
