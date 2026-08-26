@@ -66,14 +66,6 @@ $ echo $PORTFOLIO  # -> https://shobhitkori.vercel.app
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/shobhit-kori-655489253)
-[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=39FF14)](mailto:shobhitkori9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=39FF14)](https://shobhitkori.vercel.app)
-
-</div>
-
-<div align="center">
-
 ```
 > process exited with code 0
 ```
