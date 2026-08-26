@@ -2,9 +2,13 @@
 
 ```
 ● ● ●  shobhit@dev-machine: ~
-```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&height=90&lines=%24+whoami;Shobhit+Kori+%E2%80%94+Full-Stack+%2B+DevOps+Developer;%24+cat+role.txt;Building+web+platforms+%26+infra+tooling+%40+Vantageo" alt="Typing SVG" />
+$ whoami
+Shobhit Kori — Full-Stack + DevOps Developer
+
+$ cat role.txt
+Building web platforms & infra tooling @ Vantageo
+```
 
 </div>
 
@@ -56,9 +60,9 @@ currently:
 
 ```bash
 # fill in the links that apply to you
-$ echo $LINKEDIN   # -> www.linkedin.com/in/shobhit-kori-655489253
-$ echo $EMAIL      # -> shobhitkori9@gmail.com
-$ echo $PORTFOLIO  # -> https://shobhitkori.vercel.app/
+$ echo $LINKEDIN   # -> https://linkedin.com/in/<your-handle>
+$ echo $EMAIL      # -> your@email.com
+$ echo $PORTFOLIO  # -> https://your-site.dev
 ```
 
 <div align="center">
